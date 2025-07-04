@@ -1,3 +1,4 @@
+/*Array projram*/
 #include <stdio.h>
 int main(){
  int myArray[] = {5,67,4,23};
